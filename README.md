@@ -7,8 +7,10 @@
  💞️ I’m looking to collaborate as a Full-stack Developer or as a Data Scientist | Data Engineer.</br>
  📫 How to reach me :</br>
  
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
         👉 https://jpsanchez.netlify.app
+        
+  👨‍🏭Tech-Stack:
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 
         
