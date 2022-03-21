@@ -7,7 +7,7 @@
  💞️ I’m looking to collaborate as a Full-stack Developer or as a Data Scientist | Data Engineer.</br>
  📫 How to reach me :
 
-   👉 [Portfolio](https://jpsanchez.netlify.app "Javi Full-Stack Developer")
+   👉 [Portfolio Javi](https://jpsanchez.netlify.app "Javi Full-Stack Developer")
         
   👨‍🏭Tech-Stack:
   
