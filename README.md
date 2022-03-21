@@ -5,9 +5,9 @@
  🌱 I’m currently improving my skills in Machine Learning | Deep Learning & Back-End Development.</br>
  👨‍💻 Python & Javascript are my coding languages.</br>
  💞️ I’m looking to collaborate as a Full-stack Developer or as a Data Scientist | Data Engineer.</br>
- 📫 How to reach me :</br>
- 
- [Portfolio](https://jpsanchez.netlify.app "Javi Full-Stack Developer")
+ 📫 How to reach me :
+
+   👉 [Portfolio](https://jpsanchez.netlify.app "Javi Full-Stack Developer")
         
   👨‍🏭Tech-Stack:
   
