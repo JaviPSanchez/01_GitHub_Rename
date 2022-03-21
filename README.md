@@ -7,9 +7,7 @@
  💞️ I’m looking to collaborate as a Full-stack Developer or as a Data Scientist | Data Engineer.</br>
  📫 How to reach me :</br>
  
- [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
- 
-        👉 [Portfolio](https://jpsanchez.netlify.app)
+ [Portfolio](https://jpsanchez.netlify.app "Javi Full-Stack Developer")
         
   👨‍🏭Tech-Stack:
   
