@@ -4,7 +4,6 @@
  👀 I’m interested in Digital Innovation & New Technologies.</br>
  🌱 I’m currently improving my skills in Machine Learning | Deep Learning & Back-End Development.</br>
  👨‍💻 Python & Javascript are my coding languages.</br>
- 💞️ I’m looking to collaborate as a Data Developer or as a Data Scientist | Data Engineer.</br>
  📫 How to reach me :
 
    👉 [Portfolio Javi](https://jpsanchez.netlify.app "Javi Full-Stack Developer")
