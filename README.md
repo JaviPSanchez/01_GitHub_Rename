@@ -13,9 +13,12 @@
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,firebase,react,nodejs,django,postgres" />
-  </a>
+ </a>
+</p>
+<p align="center">
  <a href="https://app.daily.dev/JaviPSanchez"><img src="https://api.daily.dev/devcards/33d557b679654ebeb63cf4db82fc840d.png?r=2dv" width="400" alt="Javi's Dev Card"/></a>
 </p>
+  
   
 
         
