@@ -6,7 +6,7 @@
  👨‍💻 Python & Javascript are my coding languages.</br>
  📫 How to reach me :
 
-   👉 [Portfolio Javi](https://jpsanchez.netlify.app "Javi Full-Stack Developer")
+   👉 [Portfolio Javi](https://javips.digital)
         
   👨‍🏭Tech-Stack:
   
