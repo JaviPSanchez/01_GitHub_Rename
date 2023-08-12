@@ -6,7 +6,7 @@
  👨‍💻 Python & Javascript are my coding languages.</br>
  📫 How to reach me :
 
-   👉 [Portfolio Javi](https://javips.digital)
+   👉 [Portfolio Javi](https://www.javips.digital)
         
   👨‍🏭Tech-Stack:
   
