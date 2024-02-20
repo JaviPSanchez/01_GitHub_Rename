@@ -16,7 +16,7 @@
  </a>
 </p>
 <p align="center">
- <a href="https://app.daily.dev/JaviPSanchez"><img src="https://api.daily.dev/devcards/33d557b679654ebeb63cf4db82fc840d.png?r=2dv" width="400" alt="Javi's Dev Card"/></a>
+ <a href="https://app.daily.dev/javipsanchez"><img src="https://api.daily.dev/devcards/v2/NjhJL1aPgMrSh7idaBDSf.png?r=nrg&type=default" width="356" alt="Javi's Dev Card"/></a>
 </p>
   
   
